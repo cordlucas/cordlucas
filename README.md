@@ -1,4 +1,4 @@
-<h1 align="left">Welcome to my github, I'm Lucas Cordeiro!</h1>
+<h1 align="left">Hey there, I'm Lucas Cordeiro!</h1>
 
 ###
 
@@ -7,10 +7,6 @@
 ###
 
 <p align="left">▪ I live in Brazil, Rio de Janeiro 📍<br>▪ I'm Computer science student 🧑‍💻<br>▪ I'm currently studying Java Script and CSS 👨🏾‍💻</p>
-
-###
-
-<img href="https://raw.githubusercontent.com/cordlucas/cordlucas/blob/output/snake.svg" alt="Snake animation" />
 
 ###
 
