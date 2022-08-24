@@ -1,4 +1,4 @@
-<h1 align="left">Hey there, I'm Lucas Cordeiro!</h1>
+<h1 align="left">→ follow me and check out my growth! ;)</h1>
 
 ###
 
