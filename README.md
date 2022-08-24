@@ -2,10 +2,6 @@
 
 ###
 
-<h2 align="left">I discovered a true passion for front-end development, and since then I've been studying to achieve my goals.<br><br>→ follow me and check out my growth! ;)</h2>
-
-###
-
 <p align="left">▪ I live in Brazil, Rio de Janeiro 📍<br>▪ I'm Computer science student 🧑‍💻<br>▪ I'm currently studying Java Script and CSS 👨🏾‍💻</p>
 
 ###
