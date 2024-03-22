@@ -2,6 +2,13 @@
 
 <p align="left">▪ I live in Brazil, Rio de Janeiro 📍<br>▪ I'm Computer science student 🧑‍💻<br>▪ I'm currently studying Docker, Python and GO 👨🏾‍💻</p>
 
+<div style="display: inline_block" align="left">
+  
+<!-- Top Lang    -->
+<img width="420px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=cordlucas&theme=gruvbox&show_icons=true" />
+</div>
+<div style="display: inline_block" align="left">
+
 <div style="display: inline_block"><br>
   <img align="center" alt="Lucas-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="Lucas-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
